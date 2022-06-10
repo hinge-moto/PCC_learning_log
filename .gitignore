@@ -1,5 +1,7 @@
 # ignore all files in any directory ending in _env
 *_env/
+
 *pycache*/
 .vscode/*
 learning_log.code-workspace
+learning_log/settings.py
